@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;600;700;800&display=swap');
+
+body,
+button {
+  font-family: 'DM Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
+}
+
+:root {
+  --offcavnas-width: 270px;
+  --topNavbarHeight: 56px;
+}
+
+.sidebar-nav {
+  width: var(--offcavnas-width);
+}
+
+.sidebar-link {
+  display: flex;
+  align-items: center;
+}
+
+.sidebar-link .right-icon {
+  display: inline-flex;
+  transition: all ease 0.25s;
+}
+
+.sidebar-link[aria-expanded='true'] .right-icon {
+  transform: rotate(180deg);
+}
+
+.scrollable-container {
+  /* Set a fixed height to the container to enable scrolling */
+  height: 300px;
+  /* Add some padding for better aesthetics (optional) */
+  padding: 10px;
+  /* Add scrollbars when the content overflows */
+  overflow: auto;
+}
+
+@media (min-width: 992px) {
+  body {
+    overflow: auto !important;
+  }
+  .offcanvas-backdrop::before {
+    display: none;
+  }
+  main {
+    margin-left: var(--offcavnas-width);
+  }
+  .sidebar-nav {
+    transform: none;
+    visibility: visible !important;
+    top: var(--topNavbarHeight);
+    height: calc(100% - var(--topNavbarHeight));
+  }
+}

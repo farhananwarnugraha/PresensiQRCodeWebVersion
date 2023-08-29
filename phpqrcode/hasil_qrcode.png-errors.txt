@@ -1,0 +1,80 @@
+2023-07-19 17:19:16: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2023-07-20 17:20:40: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Deprecated</b>:  ord(): Passing null to parameter #1 ($character) of type string is deprecated in <b>E:\LOCAL_SERVER\INDEPENDENT\WORKSHOP\apl-presensi\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
